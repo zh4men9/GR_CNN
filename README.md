@@ -2,10 +2,13 @@
 
 基于卷积神经网络（CNN）的手势识别（石头、剪刀、布）
 
+## 知乎文章
 
+[基于卷积神经网络的手势识别(剪刀、石头、布) - 那那那那个小陈的文章 - 知乎](https://zhuanlan.zhihu.com/p/435710484)
 
 ## 文件树
 
+```
 │  load_model.py  #加载模型、测试模型
 │  main.py #主文件
 │  README.md
@@ -56,3 +59,4 @@ evaluate.py #测试代码
 others.py
 train.py #训练代码
 __init__.py
+```
