@@ -2,6 +2,8 @@
 
 基于卷积神经网络（CNN）的手势识别（石头、剪刀、布）
 
+
+
 ## 文件树
 
 │  load_model.py  #加载模型、测试模型
@@ -54,17 +56,3 @@ evaluate.py #测试代码
 others.py
 train.py #训练代码
 __init__.py
-
-## 训练结果
-
-参数：epoch 60, batch_size 128, lr 0.0001
-
-![img](gitImg\loss.png "损失图")
-![img](gitImg\Test_acc.png "测试准确率图")
-
-## 测试效果
-
-![gif](gitImg\1.gif "测试结果")
-"# GR_CNN" 
-"# GR_CNN" 
-"# GR_CNN" 
