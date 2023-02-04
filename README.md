@@ -4,7 +4,7 @@
 
 ## 知乎文章
 
-[基于卷积神经网络的手势识别(剪刀、石头、布) - 那那那那个小陈的文章 - 知乎](https://zhuanlan.zhihu.com/p/435710484)
+[基于卷积神经网络的手势识别(剪刀、石头、布)](https://zhuanlan.zhihu.com/p/435710484)
 
 ## 文件树
 
@@ -60,3 +60,13 @@ others.py
 train.py #训练代码
 __init__.py
 ```
+
+## 测试效果
+
+训练环境测试效果（150epoch）
+
+![](./gitImg/2.gif)
+
+非训练环境测试效果（60epoch）
+
+![](./gitImg/1.gif)
